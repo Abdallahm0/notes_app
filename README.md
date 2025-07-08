@@ -23,10 +23,14 @@ A clean and minimal note-taking application built with **Flutter** and **SQLite*
  📂 Project Structure
 
  lib/
-├── main.dart                # App entry point and MaterialApp setup
-├── notes_screen.dart        # Main screen showing list of notes and navigation to edit screen
-├── edit_note_screen.dart    # Screen for creating and editing notes
-└── notes_database.dart      # Note model and SQLite database handler (CRUD operations)
+├── main.dart   
+
+├── notes_screen.dart
+
+├── edit_note_screen.dart
+
+└── notes_database.dart
+
 
 📸 Screenshots
 
